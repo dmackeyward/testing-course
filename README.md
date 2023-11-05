@@ -7,12 +7,19 @@ Following along with Maximilian Schwarzmüller's Udemy tutorial found [here](htt
 Max teaches:
 
 -ARRANGE, ACT, ASSERT
+
 -Tests should only test for one thing
+
 -Tests should include a clear description
+
 -Tests should implement clean code practices
+
 -Testing for incorrect inputs and error handling
+
 -Testing hooks (beforeAll, beforeEach, afterEach, afterAll)
+
 =Testing ASYNC functions
+
 -MOCK and SPIES to ensure tests dont impact the application (e.g. files or databases)
 
 ![alt text](https://github.com/dmackeyward/testing-course/blob/development/screenshots/1.jpg?raw=true)
