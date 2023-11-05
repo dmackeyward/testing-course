@@ -15,6 +15,8 @@ Following along with Maximilian Schwarzmüller's Udemy tutorial found [here](htt
 =Testing ASYNC functions<br>
 -MOCK and SPIES to ensure tests dont impact the application (e.g. files or databases)
 
+# Screenshots 
+
 ![alt text](https://github.com/dmackeyward/testing-course/blob/development/screenshots/1.jpg?raw=true)
 ![alt text](https://github.com/dmackeyward/testing-course/blob/development/screenshots/2.jpg?raw=true)
 ![alt text](https://github.com/dmackeyward/testing-course/blob/development/screenshots/3.jpg?raw=true)
