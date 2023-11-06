@@ -6,17 +6,16 @@ Following along with Maximilian Schwarzmüller's Udemy tutorial found [here](htt
 
 # Max teaches:
 
-**Tests should include a clear description**<br>
 **ARRANGE, ACT, ASSERT test layout**<br>
--Ensuring that the code is clean and easy to understand<br>
+-Implement the AAA layout ensures that the code is defined clearly, well-written, and easy to understand<br><br>
 **Tests should only test for one thing**<br>
--For example, testing for failure if incorrect parameters are passed, you can use multiple expect statements but your test should be made for an individual purpose<br>
+-For example, testing for failure if incorrect parameters are passed, you can use multiple expect statements but your test should be made for an individual purpose<br><br>
 **Testing ASYNC functions**<br>
-Using the 'done' keyword for testing callback functions and expecting a test to 'reject' or 'resolve' for testing functions returning promises<br>
+Using the 'done' keyword for testing callback functions and expecting a test to 'reject' or 'resolve' for testing functions returning promises<br><br>
 **Testing hooks (beforeAll, beforeEach, afterEach, afterAll)**<br>
--Good for resetting global parameters before or after a test is called<br>
+-Useful for resetting global parameters before or after a test is called<br><br>
 **MOCK and SPIES to ensure tests dont impact the application (e.g. files or databases)**<br>
--Using Mocks and Spies allows you to test your application functions without actually triggering the function (e.g. Http request or Database call)
+-Using Mocks and Spies allows you to test your application functions without actually triggering the function (e.g. Http request or Database call). Can store your mock functions inside the __mock__ folder
 
 # Screenshots 
 
