@@ -15,7 +15,9 @@ Using the 'done' keyword for testing callback functions and expecting a test to 
 **Testing hooks (beforeAll, beforeEach, afterEach, afterAll)**<br>
 -Useful for resetting global parameters before or after a test is called<br><br>
 **MOCK and SPIES to ensure tests dont impact the application (e.g. files or databases)**<br>
--Using Mocks and Spies allows you to test your application functions without actually triggering the function (e.g. Http request or Database call). Can store your mock functions inside the __mock__ folder
+-Using Mocks and Spies allows you to test your application functions without actually triggering the function (e.g. Http request or Database call). Can store your mock functions inside the __mock__ folder<br><br>
+**Frontend DOM testing with happy-dom**<br>
+-Using happy-dom which allows us to test our front-end code without actually having a website/DOM/GUI for us to test with
 
 # Screenshots 
 
